@@ -1,9 +1,15 @@
- <h1>- 👋Hi, I’m @leolive1506</h1>
-<p>- I’m interested in code</p>
+## Hello, I'm leonardo 
+> I'm 17 years old and I'm interested in learning
+> I live in Brazil (Uberlandia-MG)
 
-<p>- i'm current learning NODE, JS, PHP, CSS, HTML</p>
+> Knowledge in HTML, CSS, JS 
 
-<footer>- How to reach me leonardolivelopes2@gmail.com @leo_1506_</footer>
+
+> Learning about node.js, sql, react 
+
+
+> Contact telephone number: 34 984168690 (preferably whatsapp) <br />
+e-mail: leoanardolivelopes2@gmail.com 
 
 
 
