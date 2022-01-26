@@ -2,8 +2,9 @@
 > I'm 17 years old and I'm interested in learning
 > I live in Brazil (Uberlandia-MG)
 
-> Knowledge in HTML, CSS, JS 
+> Currently working with php using Laravel and Livewire frameworks
 
+> Knowledge in HTML, CSS, JS, Laravel, Livewire 
 
 > Learning about node.js, sql, react 
 
