@@ -4,9 +4,9 @@
 
 > Currently working with php using Laravel and Livewire frameworks
 
-> Knowledge in HTML, CSS, JS, Laravel, Livewire 
+> Knowledge in HTML, CSS, JS, Laravel, Livewire, Mysql 
 
-> Learning about node.js, sql, react 
+> Learning about node.js, React 
 
 
 > Contact telephone number: 34 984168690 (preferably whatsapp) <br />
