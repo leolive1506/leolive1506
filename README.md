@@ -1,5 +1,5 @@
 ## Hello, I'm leonardo 
-> I'm 17 years old and I'm interested in learning
+> I'm 18 years old and I'm interested in learning
 > I live in Brazil (Uberlandia-MG)
 
 > Currently working with php using Laravel and Livewire frameworks
