@@ -1,20 +1,27 @@
-## Hello, I'm leonardo 
-> I'm 18 years old and I'm interested in learning
-> I live in Brazil (Uberlandia-MG)
+### Leo aqui!
 
-> Currently working with php using Laravel and Livewire frameworks
-
-> Knowledge in HTML, CSS, JS, Laravel, Livewire, Mysql 
-
-> Learning about node.js, React 
+<p>Programador FullStack (frontend, backend). Utilizo as seguintes tecnologias autualmente atualmente: <strong>PHP, Laravel, React, css, html, talwind, mysql, git, github, gitflow</strong></p>
 
 
-> Contact telephone number: 34 984168690 (preferably whatsapp) <br />
-e-mail: leoanardolivelopes2@gmail.com 
+<hr>
 
-
-
-<!---
-leolive1506/leolive1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/leolive1506">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolive1506&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolive1506&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leonardo Lopes Santana - PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Leonardo Lopes Santana - Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Leonardo Lopes Santana - HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leonardo Lopes Santana - CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leonardo Lopes Santana - Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leonardo Lopes Santana - React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Leonardo Lopes Santana - React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div> 
+  
+  ##
+ 
+  <a href="https://www.linkedin.com/in/leonardolopessantana/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/leolive1506" target="_blank" width="75px">
+  </a> 
