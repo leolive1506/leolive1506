@@ -20,11 +20,13 @@
 </div> 
   
   <hr>
+
 ## Redes Sociais
  <div> 
     <a href="https://www.linkedin.com/in/leonardolopessantana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
-  ##
+ 
+    <hr>
  
   <a href="https://www.linkedin.com/in/leonardolopessantana/" target="_blank">
     <img src="https://avatars.githubusercontent.com/leolive1506" target="_blank" width="75px">
