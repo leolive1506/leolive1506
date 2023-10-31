@@ -1,6 +1,9 @@
 ### Leo aqui!
 
-<p>Programador FullStack (frontend, backend). Utilizo as seguintes tecnologias autualmente atualmente: <strong>PHP, Laravel, React, css, html, talwind, mysql, git, github, gitflow</strong></p>
+<p>
+    Programador FullStack (frontend, backend). Utilizo as seguintes tecnologias autualmente atualmente:
+    <strong>Java, Spring Boot, PHP, Laravel, React, css, html, talwind, mysql, git, github, gitflow</strong>
+</p>
 
 
 <hr>
@@ -10,7 +13,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolive1506&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolive1506&layout=compact&langs_count=8&theme=merko"/>
 </div>
+    
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  
   <img align="center" alt="Leonardo Lopes Santana - PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Leonardo Lopes Santana - Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Leonardo Lopes Santana - HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
